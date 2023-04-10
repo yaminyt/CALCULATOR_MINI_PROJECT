@@ -1,0 +1,25 @@
+.Calculator .value{
+    width: 30vw;
+    padding: 1vw;
+    font-size: 2vw;
+    text-align: right;
+}
+button{
+    width: 6.9vw;
+    padding: 1vw;
+    font-size: 2vw;
+    margin: 0.5vw;
+}
+.row1,.row2,.row3,.row4{
+ display: flex;
+ justify-content: space-between;
+
+
+}
+.Calculator{
+
+    width: 33.4%;
+    background-color: rgb(66, 80, 71);
+    padding: 2vw;
+    border-radius: 3vw;
+}
